@@ -27,12 +27,13 @@ The project was done using Jupyter and the language used is Python 3.9.12. The p
 ## Results
 1. The year 2020 onwards had an increase in the option of working from home being available to IT professionals in particular. A survey of the sample of nearly 73000 respondents shows nearly 34% working fully remote and an equal percentage working hybrid. Only 11% of the respondents were working Full-in person.\
 The countries providing remote work option country wise depicts that 
-- United States of America provides the highest percentage of 30%
-- UK at 7%,
-- Germany and Canada at 6% ,
-- India and Brazil at 5%,
-- Poland and spain at 3% and
-- France and Australia at 2%
+- United States of America provides the highest percentage of 27%
+- India at 8%,
+- Germany and UK at 6%
+- Canada and Brazil at 5% ,
+- poland and spain at 3% and
+- France,Russian Federation and Australia at 2%
+
 
 2. The popular of the preferred language by the respondents who are Full stack developer and Back-end developer was analyzed. \
 The languages preferred the most by the Full stack developers seem to be C#,HTML,Javascript, SQL,TypeScript with the subsets of this being preferred as the 2nd,3rd and 4th. Python is the 5th most preferred language.\
