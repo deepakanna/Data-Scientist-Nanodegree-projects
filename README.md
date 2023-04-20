@@ -35,11 +35,11 @@ The countries providing remote work option country wise depicts that
 - France,Russian Federation and Australia at 2%
 
 
-2. The popular of the preferred language by the respondents who are Full stack developer and Back-end developer was analyzed. \
+2. The popularity of the preferred language by the respondents who are Full stack developer and Back-end developer was analyzed. \
 The languages preferred the most by the Full stack developers seem to be C#,HTML,Javascript, SQL,TypeScript with the subsets of this being preferred as the 2nd,3rd and 4th. Python is the 5th most preferred language.\
 As for Back-end developers are concerned, Java is the most preferred language, followed by Go, Rust, C#, and Python.
 
 3. Most IT related professionals spend time searching for the answers or solutions to problems. The time spent by the respondents on a scale of 15–30 minutes a day, 30–60 minutes a day, 60–120 minutes a day , less than 15 minutes a day and over 120 minutes a day were analyzed.\
-Nearly 6500 respondents with bachelor’s degree spent nearly 30–60 minutes a day followed by 3500 respondents with master’s degree. he same pattern is observed where 1200 respondents with bachelor’s degrees spent over 120 minutes searching followed by 600 respondents with master’s degrees. From the above pattern, the respondents with bachelor’s degrees spend the most time searching for solutions to problems encountered.
+Nearly 6500 respondents with bachelor’s degree spent nearly 30–60 minutes a day followed by 3500 respondents with master’s degree. The same pattern is observed where 1200 respondents with bachelor’s degrees spent over 120 minutes searching followed by 600 respondents with master’s degrees. From the above pattern, the respondents with bachelor’s degrees spend the most time searching for solutions to problems encountered.
 
 A detailed analysis of the survey can also be found at the post available [here](https://medium.com/@deepa.kanna2001/stack-overflow-2022-survey-analysis-d33ebf65c070)
